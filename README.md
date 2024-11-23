@@ -10,3 +10,5 @@ Une première carte permet de contrôler un servomoteur robotis dynamixel ; elle
 Une deuxième carte µC récupère une donnée de luminosité ou de distance via un bus I2C (Capteur ST VL6180X), ainsi que des données de pression et d’humidité ( Capteurs ST LPS22HB et HTS221 ).
 
 Une troisième carte µC récupère les données d’un accéléromètre et d’un gyroscope via un bus I2C (Capteur Invensense MPU9250)
+
+![My Photo](architecture.svg)
